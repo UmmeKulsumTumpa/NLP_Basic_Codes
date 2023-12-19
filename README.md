@@ -12,4 +12,4 @@ Code snippets for cleaning and preparing raw text data for NLP tasks, including 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/nlp-basics.git
+git clone https://github.com/UmmeKulsumTumpa/NLP_Basic_Codes.git
