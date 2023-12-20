@@ -12,3 +12,6 @@ def rule_based_pos_tagging(sentence):
 sentence = "The brown fox jumps over the lazy dog."
 result = rule_based_pos_tagging(sentence)
 print(result)
+
+# Output: [('The', 'DT'), ('brown', 'JJ'), ('fox', 'NN'), ('jumps', 'NNS'), ('over', 'IN'), ('the', 'DT'), ('lazy',
+# 'JJ'), ('dog', 'NN'), ('.', '.')]
