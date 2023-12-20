@@ -19,3 +19,14 @@ print("One-Hot Encoding:")
 print(one_hot_encoding)
 print("\nVocabulary:")
 print(vocab)
+
+# Output:
+# One-Hot Encoding:
+# [[0 0 0 0 0 0 0 1 1 1 0 0 0 1 0 0]
+#  [1 1 0 0 1 1 1 0 0 0 0 0 1 0 1 0]
+#  [0 0 1 1 0 0 1 0 0 0 1 1 0 0 0 1]]
+
+# Vocabulary:
+# ['but' 'encoding' 'fascinating' 'field' 'hot' 'inefficient' 'is'
+#  'language' 'love' 'natural' 'nlp' 'of' 'one' 'processing' 'simple'
+#  'study']
